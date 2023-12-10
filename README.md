@@ -1,2 +1,2 @@
 # art2
-When the button is clicked, the CalculateArea
+When the button is clicked, the calculate area
